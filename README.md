@@ -7,3 +7,5 @@ I don't have any documantation for this engine, whatever you see it is on the co
 Major differences are the structure of classes and more.
 
 The code is outdated though.
+
+main1.py is the testing ground before updating main.py 
