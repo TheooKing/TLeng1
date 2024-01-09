@@ -1,6 +1,6 @@
 # Tleng.py 1
 
-> ### ⚠️ ABONDED PROJECT
+> ### ⚠️ ABONDONED PROJECT
 
 This is the first version of the engine that I was working on until I scraped it, and started from scratch for the second version of tleng.
 
